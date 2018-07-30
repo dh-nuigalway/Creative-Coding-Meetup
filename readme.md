@@ -16,6 +16,8 @@ _Creative coding is a different discipline than programming systems. The goal is
 - It's an opportunity to schedule some time each week to develop your coding skills, and to get some help if you need it. 
 - There are tutorial videos (bring headphones), online courses and reference material in the [Coding Resources Section](#coding-resources) below for you to work through at your own pace.
 
+If you have no coding experience, and aren't sure where or how to start, someone will help you.
+
 Come along, meet people who are also learning to code, and get help if you run into any problems. Showing what you're working on would be great too!
 
 
