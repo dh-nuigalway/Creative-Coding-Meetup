@@ -75,7 +75,7 @@ In the last iteration of these sessions (organised by Anne Karhio), we were work
 
 
 
-### OpenFrameworks
+### openFrameworks
 
 _openFrameworks is an open source C++ toolkit for creative coding. It is designed to assist the creative process by providing a simple and intuitive framework for experimentation._
 
