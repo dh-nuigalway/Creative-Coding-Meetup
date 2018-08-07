@@ -20,7 +20,11 @@ If you have no coding experience, and aren't sure where or how to start, someone
 
 Come along, meet people who are also learning to code, and get help if you run into any problems. Showing what you're working on would be great too!
 
+### Getting some help
 
+1. Search on Google and [StackOverflow](https://stackoverflow.com) - others will likely have had a similar problem.
+2. Ask the people sitting around you in the meetup if they've run into a similar problem. They may be able to help you solve your issue, or point you towards someone else who can.
+3. [Open a new Issue](https://github.com/dh-nuigalway/Creative-Coding-Meetup/issues) with a description of the problem, and we'll see if we can point you in the right direction
 
 ## Coding Resources
 
