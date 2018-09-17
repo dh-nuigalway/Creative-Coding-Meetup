@@ -44,7 +44,7 @@ _p5.js is a JavaScript library that starts with the original goal of [Processing
 
 #### Learning Resources
 
-- **Introductory Video Series**: [p5.js tutorials: JavaScript, HTML, and CSS](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd), by Daniel Shiffman. (Good starting point if you have no experience coding).
+- **Introductory Video Series**: [p5.js tutorials: 1-7: Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA), by Daniel Shiffman. (This is a good starting point if you have no experience coding).
 
 - Official [P5.js Learning Section](https://p5js.org/learn/) - includes a variety of tutorials
 
